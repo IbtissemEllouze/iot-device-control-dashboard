@@ -9,10 +9,10 @@ A web-based dashboard to monitor sensor values (gas, pressure, movement) and con
 
 ## Features
 
-- 📊 Real-time chart display of sensor data
-- 💡 Toggle LED on/off
-- 🔌 Toggle relay on/off
-- 🗄️ Stores data in MySQL (via XAMPP)
-- 🔐 CORS headers and JSON API responses
+-  Real-time chart display of sensor data
+-  Toggle LED on/off
+-  Toggle relay on/off
+-  Stores data in MySQL (via XAMPP)
+-  CORS headers and JSON API responses
 
 
