@@ -4,7 +4,7 @@ A web-based dashboard to monitor sensor values (gas, pressure, movement) and con
 
 - ✅ ReactJS for frontend
 - ✅ PHP + MySQL for backend
-- ✅ Firebase or XAMPP-based database
+- ✅ XAMPP-based database
 - ✅ Responsive charts with Recharts
 
 ## Features
